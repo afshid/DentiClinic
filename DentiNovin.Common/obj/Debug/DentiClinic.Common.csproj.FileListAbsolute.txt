@@ -1,0 +1,10 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.Common\bin\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.Common\bin\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.Common\obj\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.Common\obj\Debug\DentiClinic.Common.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.Common\bin\Debug\DentiClinic.Common.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.Common\bin\Debug\DentiClinic.Common.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.Common\obj\Debug\DentiClinic.Common.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.Common\obj\Debug\DentiClinic.Common.pdb

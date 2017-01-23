@@ -1,0 +1,40 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll.config
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll.config
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.pdb
+E:\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll.config
+E:\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.dll
+E:\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.DataAccess.pdb
+E:\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.dll
+E:\DentiNovin\DentiNovin.DataAccess\bin\x86\Debug\DentiNovin.Common.pdb
+E:\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.csprojResolveAssemblyReference.cache
+E:\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.dll
+E:\DentiNovin\DentiNovin.DataAccess\obj\x86\Debug\DentiNovin.DataAccess.pdb

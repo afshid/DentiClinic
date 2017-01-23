@@ -1,0 +1,18 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.BusinessLogic.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.BusinessLogic.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\obj\Release\DentiClinic.BusinessLogic.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\DentiClinic.BusinessLogic\obj\Release\DentiClinic.BusinessLogic.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.BusinessLogic.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.BusinessLogic.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.Common.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.DataAccess.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.Common.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\bin\Release\DentiClinic.DataAccess.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\obj\Release\DentiClinic.BusinessLogic.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.BusinessLogic\obj\Release\DentiClinic.BusinessLogic.pdb

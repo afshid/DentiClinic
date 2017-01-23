@@ -1,0 +1,394 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.exe
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB.mdf
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB_log.ldf
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovinTutorials.htm
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.Win.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceReportForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceServiceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillListForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillPaymentForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillReportForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.DateBarControl.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.MNMCurrencyTextBox.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.SerialBox.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsMakerForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.HelpForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.AppointmentControl.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.VisitTable.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsViewerForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientAssuranceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientTreatmentDetails.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionListForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Properties.Resources.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RegistrationForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ReportsForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DoctorForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AlertForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.GroupForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.LoginForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.MainForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RootCanalForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SearchPatientForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ServicePickup.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SetupForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.X_RayDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.XRayImageForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AboutForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseWinForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientList.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientListSearch.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothChart.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothView.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothViewContainer.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.NotifierForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientListDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentListDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentChartForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceSelector.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.UserAccessForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.compiled
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB.mdf
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB_log.ldf
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovinTutorials.htm
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceReportForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceServiceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillListForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillPaymentForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillReportForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.DateBarControl.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.MNMCurrencyTextBox.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.SerialBox.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsMakerForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.HelpForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.AppointmentControl.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.VisitTable.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsViewerForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientAssuranceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientTreatmentDetails.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionListForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Properties.Resources.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RegistrationForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ReportsForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DoctorForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AlertForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.GroupForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.LoginForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.MainForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RootCanalForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SearchPatientForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ServicePickup.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SetupForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.X_RayDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.XRayImageForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AboutForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseWinForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientList.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientListSearch.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothChart.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothView.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothViewContainer.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.NotifierForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientListDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentListDock.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentChartForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceSelector.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.UserAccessForm.resources
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.compiled
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.exe
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Base.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Win.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\ToolBox.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.Win.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Design.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Editor.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB.mdf
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB_log.ldf
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovinTutorials.htm
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe.config
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Base.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Design.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Win.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\ToolBox.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Editor.dll
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.pdb
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csprojResolveAssemblyReference.cache
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceReportForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceServiceForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillListForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillPaymentForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillReportForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.DateBarControl.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.MNMCurrencyTextBox.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.SerialBox.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsMakerForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.HelpForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.AppointmentControl.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.VisitTable.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsViewerForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientAssuranceForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientTreatmentDetails.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionListForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Properties.Resources.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RegistrationForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ReportsForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DoctorForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AlertForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.GroupForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.LoginForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.MainForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RootCanalForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SearchPatientForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ServicePickup.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SetupForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.X_RayDock.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.XRayImageForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AboutForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseWinForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientList.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientListSearch.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothChart.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothView.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothViewContainer.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.NotifierForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientListDock.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentListDock.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentChartForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceSelector.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.UserAccessForm.resources
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csproj.GenerateResource.Cache
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.cache
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.compiled
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.exe
+C:\Users\lenovo me\Documents\Visual Studio 2010\Projects\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe.config
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.exe
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceReportForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceServiceForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillListForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillPaymentForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillReportForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.DateBarControl.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.MNMCurrencyTextBox.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.SerialBox.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsMakerForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.HelpForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.AppointmentControl.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.VisitTable.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsViewerForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientAssuranceForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientTreatmentDetails.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionListForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RegistrationForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ReportsForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DoctorForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AlertForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.GroupForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.LoginForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.MainForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RootCanalForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SearchPatientForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ServicePickup.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SetupForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.X_RayDock.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.XRayImageForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AboutForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseWinForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientList.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientListSearch.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothChart.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothView.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothViewContainer.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.NotifierForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientListDock.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentListDock.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentChartForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceSelector.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.UserAccessForm.resources
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.cache
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB.mdf
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB_log.ldf
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovinTutorials.htm
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Base.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Design.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\ToolBox.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Editor.dll
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.pdb
+C:\Users\Mohammad\Desktop\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe.config
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.exe
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB.mdf
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Data\MNMDentiDB_log.ldf
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovinTutorials.htm
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.exe
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Base.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Design.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Report.Win.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\ToolBox.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Controls.Win.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Stimulsoft.Editor.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.BusinessLogic.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.Common.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\DentiNovin.DataAccess.pdb
+E:\DentiNovin\DentiNovin\bin\x86\Debug\MNMControls.FADatePicker.pdb
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csprojResolveAssemblyReference.cache
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceReportForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AssuranceServiceForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillListForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillPaymentForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BillReportForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.DateBarControl.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.MNMCurrencyTextBox.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.SerialBox.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsMakerForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.HelpForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.AppointmentControl.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.VisitTable.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DentiReportsViewerForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientAssuranceForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientTreatmentDetails.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PrescriptionListForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Properties.Resources.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RegistrationForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ReportsForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.DoctorForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AlertForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.GroupForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.LoginForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.MainForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.RootCanalForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SearchPatientForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.ServicePickup.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.SetupForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.X_RayDock.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.XRayImageForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AboutForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.BaseWinForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientList.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.PatientListSearch.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothChart.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothView.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.Controls.ToothViewContainer.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.NotifierForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.PatientListDock.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.AppointmentListDock.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentChartForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.TreatmentServiceSelector.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.UserAccessForm.resources
+E:\DentiNovin\DentiNovin\obj\x86\Debug\DentiNovin.csproj.GenerateResource.Cache
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.Smo.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.Dmf.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\DentiNovin\DentiNovin\bin\x86\Debug\Microsoft.SqlServer.RegSvrEnum.dll

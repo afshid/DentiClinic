@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DentiClinic">
+</Property><Property Name="Solution File" Value="D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.sln">
+</Property><Property Name="Date" Value="Sunday, February 05, 2012">
+</Property><Property Name="Time" Value="21:27 PM">
+</Property></Properties><Event ErrorLevel="4" Project="DentiClinic" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="DentiClinic" Source="DentiClinic\DentiClinic.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DentiClinic" Source="DentiClinic\DentiClinic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DentiClinic.Common" Source="DentiClinic.Common\DentiClinic.Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DentiClinic.Common" Source="DentiClinic.Common\DentiClinic.Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DentiClinic.BusinessLogic" Source="DentiClinic.BusinessLogic\DentiClinic.BusinessLogic.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DentiClinic.BusinessLogic" Source="DentiClinic.BusinessLogic\DentiClinic.BusinessLogic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DentiClinic.DataAccess" Source="DentiClinic.DataAccess\DentiClinic.DataAccess.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DentiClinic.DataAccess" Source="DentiClinic.DataAccess\DentiClinic.DataAccess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MNMControls.FADatePicker" Source="FADatePicker\MNMControls.FADatePicker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MNMControls.FADatePicker" Source="FADatePicker\MNMControls.FADatePicker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DentiClinic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DentiClinic.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DentiClinic.Common" Source="DentiClinic.Common\DentiClinic.Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DentiClinic.BusinessLogic" Source="DentiClinic.BusinessLogic\DentiClinic.BusinessLogic.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DentiClinic.DataAccess" Source="DentiClinic.DataAccess\DentiClinic.DataAccess.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MNMControls.FADatePicker" Source="FADatePicker\MNMControls.FADatePicker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DentiClinic" Source="DentiClinic\DentiClinic.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

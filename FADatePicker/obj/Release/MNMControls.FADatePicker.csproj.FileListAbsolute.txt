@@ -1,0 +1,10 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\FADatePicker\bin\Release\MNMControls.FADatePicker.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\FADatePicker\bin\Release\MNMControls.FADatePicker.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\FADatePicker\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\FADatePicker\obj\Release\MNMControls.FADatePicker.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2008\Projects\DentiClinic\FADatePicker\obj\Release\MNMControls.FADatePicker.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\bin\Release\MNMControls.FADatePicker.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\bin\Release\MNMControls.FADatePicker.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\Release\ResolveAssemblyReference.cache
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\Release\MNMControls.FADatePicker.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\Release\MNMControls.FADatePicker.pdb

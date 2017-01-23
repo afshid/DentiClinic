@@ -1,0 +1,5 @@
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\bin\x86\Release\MNMControls.FADatePicker.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\bin\x86\Release\MNMControls.FADatePicker.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\x86\Release\ResolveAssemblyReference.cache
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\x86\Release\MNMControls.FADatePicker.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\FADatePicker\obj\x86\Release\MNMControls.FADatePicker.pdb

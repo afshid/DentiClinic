@@ -1,0 +1,24 @@
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll.config
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.pdb
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.dll
+D:\afshid\Projects\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.DataAccess.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\bin\x86\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.DataAccess\obj\x86\Debug\DentiClinic.DataAccess.pdb

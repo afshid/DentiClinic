@@ -1,0 +1,12 @@
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\bin\x86\Debug\DentiClinic.Common.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\bin\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\bin\x86\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\obj\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiClinic\DentiClinic.Common\obj\x86\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\bin\x86\Debug\DentiClinic.Common.dll.config
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\bin\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\bin\x86\Debug\DentiClinic.Common.pdb
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\obj\x86\Debug\DentiClinic.Common.dll
+C:\Documents and Settings\afshid\My Documents\Visual Studio 2010\Projects\DentiNov\DentiNov.Common\obj\x86\Debug\DentiClinic.Common.pdb
